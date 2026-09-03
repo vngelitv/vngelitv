@@ -4,7 +4,7 @@
 📊 Aspiring Data Analyst / Data Scientist  
 📍 Chicago, IL  
 
-I enjoy finding the **story behind the numbers** and using data to solve real-world problems.
+I enjoy finding the **story behind the numbers** and using data to solve real world problems.
 
 ## 🛠️ Skills
 
@@ -19,7 +19,7 @@ Tableau • Excel • Jupyter Notebook
 ## 📌 Featured Projects
 
 ### 👥 Employee Retention Prediction
-Built machine-learning models to predict employee turnover and identify the strongest drivers of attrition.
+Built machine learning models to predict employee turnover and identify the strongest drivers of attrition.
 
 **Tools:** Python, Pandas, Scikit-learn, EDA, Machine Learning
 
@@ -36,8 +36,8 @@ Analyzed taxi trip behavior, fares, tips, and payment patterns to uncover busine
 ## 🌱 Currently
 
 - Finishing my B.S. in Computer Science with a concentration in Data Analytics
-- Seeking entry-level opportunities in data analytics, business analytics, and technology
+- Seeking entry level opportunities in data analytics, business analytics, and technology
 
 ## 🤝 Let's Connect
 
-LinkedIn: [your LinkedIn link]
+LinkedIn: https://www.linkedin.com/in/vngelitv 
